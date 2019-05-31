@@ -1,0 +1,5 @@
+package: github.com/fochoac/go-util-ws
+import:
+- package: github.com/fochoac/go-model-ws
+  subpackages:
+  - prueba
